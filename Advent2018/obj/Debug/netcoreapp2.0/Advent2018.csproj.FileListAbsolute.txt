@@ -1,0 +1,11 @@
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.csprojResolveAssemblyReference.cache
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.csproj.CoreCompileInputs.cache
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.AssemblyInfoInputs.cache
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.AssemblyInfo.cs
+C:\Users\Elian\source\repos\Advent2018\Advent2018\bin\Debug\netcoreapp2.0\Advent2018.deps.json
+C:\Users\Elian\source\repos\Advent2018\Advent2018\bin\Debug\netcoreapp2.0\Advent2018.runtimeconfig.json
+C:\Users\Elian\source\repos\Advent2018\Advent2018\bin\Debug\netcoreapp2.0\Advent2018.runtimeconfig.dev.json
+C:\Users\Elian\source\repos\Advent2018\Advent2018\bin\Debug\netcoreapp2.0\Advent2018.dll
+C:\Users\Elian\source\repos\Advent2018\Advent2018\bin\Debug\netcoreapp2.0\Advent2018.pdb
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.dll
+C:\Users\Elian\source\repos\Advent2018\Advent2018\obj\Debug\netcoreapp2.0\Advent2018.pdb
